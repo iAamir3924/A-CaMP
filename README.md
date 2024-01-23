@@ -11,4 +11,4 @@ mutant sequenceand peptides, which lays the foundation for its application in th
 
 # Note
 A-CaMP expects BioPerl, Math::Random, and File::Slurp to be preinstalled. 
-![A-CaMP](https://github.com/iAamir3924/A-CaMP/blob/main/A-CaMP.pngL)
+![A-C](https://github.com/iAamir3924/A-CaMP/blob/main/A-CaMP.pngL)
