@@ -1,5 +1,5 @@
-**A-CaMP**
-# Tool for  anti-cancer and antimicrobial peptide generation
+#A-CaMP
+*Tool for  anti-cancer and antimicrobial peptide generation*
 Anti-cancer peptides (ACPs) play a vital role in the cell signaling process. Antimicrobial peptides(AMPs) provide immunity against pathogenic microbes, AMPs present activity against pathogenicmicrobes. 
 Some of them are known to possess both anticancer and antimicrobial activity. However, sofar, no tools have been developed that could predict potential ACPs from wild and mutated cancerousprotein 
 sequences in the numerous public databases. In the present study, we developed a A-CaMPtool that allows rapid fingerprinting of the anti-cancer and antimicrobial peptides, which play a crucialrole 
@@ -9,6 +9,6 @@ It was observed to achieve a prediction accuracy of 93.4%, which is much higher 
 atool for the identification of AMPs. A-CaMP is the first open source tool that uses clinical data and pro-poses final peptides along with the necessary information; this includes wild and 
 mutant sequenceand peptides, which lays the foundation for its application in therapies for cancer and bacterial infec-tions.
 
-# Note
+*Note*
 A-CaMP expects BioPerl, Math::Random, and File::Slurp to be preinstalled. 
 
